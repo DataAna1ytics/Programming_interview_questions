@@ -4,7 +4,7 @@ Created on Tue Aug 22 20:23:54 2017
 
 @author: Gavrilov
 """
-#average value counter for Analyst position
+#average value counter for Regional Office Researcher position
 grades = "5,5,5,5,5,4,5,5,4,5,4,5,5,5"
 counter=0
 summ=0
