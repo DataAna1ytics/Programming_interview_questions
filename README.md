@@ -1,4 +1,4 @@
-# Job-interview-tasks
+# IT jobs interview tasks
 Actual coding tasks for IT jobs, such as databases/ web analyst, Python developer in different companies:
 - Positive Technologies https://www.ptsecurity.com/ru-ru/
 - The Dairy News https://dairynews.ru 
