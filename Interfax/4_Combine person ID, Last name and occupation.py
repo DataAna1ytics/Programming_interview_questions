@@ -6,6 +6,7 @@ Created on Thu Jul 27 13:57:56 2017
 """
 #Having list of full names, list of ID with last name, and list of ID and occupation,
 #write a code such that shows person ID, Last name and occupation 
+
 Name_1 = "Басулин Александр Евгеньевич \
 Текслер Алексей Леонидович \
 Чайка Константин Леонтьевич \
