@@ -5,6 +5,6 @@ Actual coding tasks for IT jobs, such as databases/ web analyst, Python develope
 - Interfax http://www.interfax.com/
 - Amnesty International https://www.amnesty.org/en/
 - Greenpeace http://www.greenpeace.org/russia/en/
-- Yandex https://yandex.ru/company/
+- Yandex https://yandex.com/company/
 - Digital Economy League https://digitalleague.ru/
 - Deloitte Consulting https://www2.deloitte.com/ru/en.html
