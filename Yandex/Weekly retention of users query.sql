@@ -24,4 +24,4 @@ INSERT INTO YourTable VALUES
 #weekly retention of users
 SELECT user_id, count(user_id) FROM YourTable
 WHERE order_datetime BETWEEN '2017-09-01 000000' AND '2017-09-07 235959'
-GROUP BY user_id HAVING count(*)1;
+GROUP BY user_id HAVING count(*)>1;
