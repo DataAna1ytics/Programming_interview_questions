@@ -1,4 +1,4 @@
-#database creation on server
+#server setup
 use sql2197771; #using of a database
 
 CREATE TABLE YourTable
