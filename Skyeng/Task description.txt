@@ -1,4 +1,4 @@
-1 Connect the Redshift database to the Redash from your trial account
+1 Connect the Redshift database (analyst_test_task) to the Redash from your trial account
 2 Use the table test.vimbox_pages with information about users activity in the following type: 
     <user-identifier>, <page>, <date-visit time>
 
