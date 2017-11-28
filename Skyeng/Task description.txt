@@ -1,6 +1,0 @@
-- Connect the Redshift database to the Redash from your trial account
-- Use the table test.vimbox_pages with information about users activity in the following type: <user-identifier>, <page>, <date-visit time>
-- Write an SQL query that will show the users session* where the following actions are performed (it may be not successively, but in the specified order):
-- User visited: 1) rooms.homework-showcase; 2) rooms.view.step.content; 3) rooms.lesson.rev.step.content.
-- * A session is the activity of a user, in which there is less than one hour passed between successive actions. The session begins at the time of the first of these actions and ends an hour after the last of them.
-P.S. The result should be in the form as follows: <user-identifier>, <session start date-time>, <date-time of session end>.
