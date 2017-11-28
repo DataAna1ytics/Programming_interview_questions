@@ -4,6 +4,7 @@ Created on Wed Jul 26 19:56:07 2017
 
 @author: Gavrilov
 """
+#Position of an Analyst
 #In first string you have ID and lastname, and in second string you have full name.
 #Write a code such that assignes ID to the full name
 
