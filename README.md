@@ -5,3 +5,4 @@ Actual coding tasks for IT jobs, such as databases/ web analyst, Python develope
 - Greenpeace http://www.greenpeace.org/russia/en/
 - Yandex https://yandex.com/company/
 - Deloitte Consulting https://www2.deloitte.com/ru/en.html
+- Skyeng https://skyeng.ru/
