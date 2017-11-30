@@ -2,7 +2,8 @@
 2 Use the table test.vimbox_pages with information about users activity in the following type: 
     <user-identifier>, <page>, <date-visit time>
 
-3 Write an SQL query that will show the users session* where the following actions are performed (it may be not successively, but in the specified order)
+3 Write an SQL query that will show the users session* where the following actions are performed 
+(it may be not successively, but in the specified order)
 User visited: 
     1) rooms.homework-showcase;  
     2) rooms.view.step.content; 
