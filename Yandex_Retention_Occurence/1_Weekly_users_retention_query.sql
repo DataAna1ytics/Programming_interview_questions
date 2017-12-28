@@ -1,3 +1,6 @@
+#Position: Analyst for Yandex vertical services
+#Taks: implement a SQL query which finds weekly users retention from given table
+
 #server setup
 use sql2197771; #using of a database
 
