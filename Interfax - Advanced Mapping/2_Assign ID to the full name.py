@@ -4,9 +4,10 @@ Created on Wed Jul 26 19:56:07 2017
 
 @author: Gavrilov
 """
-#Position of an Analyst
-#In first string you have ID and lastname, and in second string you have full name.
-#Write a code such that assignes ID to the full name
+#Position: Analyst
+#Task: in first string you have ID and lastname, and in second string you have full name,
+#write a code such that assignes ID to the full name,
+#try to use primitive expressions so that it would be possible to see your way of coding   
 
 ID = "423754 Баженов \
 429977 Барышев \
