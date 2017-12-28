@@ -4,8 +4,9 @@ Created on Thu Jul 27 10:06:47 2017
 
 @author: Gavrilov
 """
-#Position of an Analyst
-#Find year of birth in given biography
+#Position: Analyst
+#Task: find year of birth in given biography
+
 Bio = "Родился 14 сентября 1965 года в Ленинграде. \
 Окончил юридический факультет Ленинградского государственного университета в 1987 году \
 и аспирантуру ЛГУ в 1990 году. Кандидат юридических наук, доцент \
