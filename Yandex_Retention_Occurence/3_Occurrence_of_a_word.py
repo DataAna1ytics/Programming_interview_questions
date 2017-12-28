@@ -4,9 +4,9 @@ Created on Fri Nov 10 15:59:01 2017
 
 @author: Gavrilov
 """
-#Analyst position for Yandex vertical services
-#Provide output which counts occurrence of a word in a "s"
-#implement specific Python function    
+#Position: Analyst for Yandex vertical services
+#Task: implement code which counts occurrence of a word in a string using specific Python function    
+
 s = 'qwert, tyuio, yuio, sdfg, qwert, fghjk, '
 import collections
 c = collections.Counter()
