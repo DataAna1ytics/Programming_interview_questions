@@ -4,9 +4,10 @@ Created on Thu Jul 27 13:57:56 2017
 
 @author: Gavrilov
 """
-#Position of an Analyst
-#Having list of full names, list of ID with last name, and list of ID and occupation,
-#write a code such that shows person ID, Last name and occupation 
+#Position: Analyst
+#Task: Having list of full names, list of ID with last name, and list of ID and occupation,
+#write a code such that shows person ID, Last name and occupation; 
+#try to use primitive expressions so that it would be possible to see your way of coding  
 
 Name_1 = "Басулин Александр Евгеньевич \
 Текслер Алексей Леонидович \
