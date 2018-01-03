@@ -1,13 +1,13 @@
 # Programming interview questions
 
 - Interfax http://www.interfax.com/
-    -- Position: Analyst    
+    -- Analyst    
 
 - Greenpeace http://www.greenpeace.org/russia/en/
-    -- Position: Senior data analyst
+    -- Senior data analyst
 
 - Yandex https://yandex.com/company/
-    -- Position: Analyst
+    -- Analyst
 
 - Skyeng https://skyeng.ru/
-    -- Position: Analyst
+    -- Analyst
