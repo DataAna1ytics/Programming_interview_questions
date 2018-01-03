@@ -4,7 +4,7 @@ Created on Fri Aug  4 13:48:14 2017
 
 @author: Gavrilov
 """
-#Position: Senoir data analyst
+#Position: Senior data analyst
 #Task: Implement code to display prime numbers up to 100 in any programming language
 
 lower = 2
