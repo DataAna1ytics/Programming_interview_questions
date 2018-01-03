@@ -7,7 +7,7 @@
     -- Senior data analyst
 
 - Yandex https://yandex.com/company/
-    -- Analyst
+    -- Web analyst
 
 - Skyeng https://skyeng.ru/
     -- Analyst
