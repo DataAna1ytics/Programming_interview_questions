@@ -7,7 +7,7 @@
     -- Analyst    
 
 - Skyeng https://skyeng.ru/
-    -- Analyst
+    -- Data Analyst
 
 - Yandex https://yandex.com/company/
     -- Web analyst
