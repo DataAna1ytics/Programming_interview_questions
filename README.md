@@ -1,8 +1,13 @@
-# IT jobs interview tasks
-Actual coding tasks for IT jobs, such as databases/ web analyst, Python developer in different companies:
-- Positive Technologies https://www.ptsecurity.com/ru-ru/
+# Programming interview questions
+
 - Interfax http://www.interfax.com/
+    Position: Analyst    
+
 - Greenpeace http://www.greenpeace.org/russia/en/
+    Position: Analyst
+
 - Yandex https://yandex.com/company/
-- Deloitte Consulting https://www2.deloitte.com/ru/en.html
+    Position: Analyst
+
 - Skyeng https://skyeng.ru/
+    Position: Analyst
