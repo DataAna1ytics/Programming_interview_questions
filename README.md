@@ -4,10 +4,10 @@
     -- Position: Senior data analyst
 
 - Interfax http://www.interfax.com/
-    -- Position: Analyst    
+    -- Analyst    
 
 - Skyeng https://skyeng.ru/
-    -- Position: Data analyst
+    -- Data analyst
 
 - Yandex https://yandex.com/company/
-    -- Position: Web analyst
+    -- Web analyst
