@@ -1,6 +1,6 @@
 # Programming interview questions
 
-- [Greenpeace](http://www.greenpeace.org/russia/en/) | Position: Senior data analyst
+- [Greenpeace](http://www.greenpeace.org/russia/en/) | *Position:* Senior data analyst
 
 - [Interfax](http://www.interfax.com/) | Analyst    
 
