@@ -1,10 +1,10 @@
 # Programming interview questions
 Answers on programming interview questions implemented while seeking for job in IT in Moscow, Russia
 
-- [Greenpeace](http://www.greenpeace.org/russia/en/) | *Position:* Senior data analyst
+- [Greenpeace](http://www.greenpeace.org/russia/en/) | *Position:* Senior data analyst *(On-site interview)*
 
 - [Interfax](http://www.interfax.com/) | Analyst    
 
 - [Skyeng](https://skyeng.ru/) | Data analyst 
 
-- [Yandex](https://yandex.com/company/) | Web analyst
+- [Yandex](https://yandex.com/company/) | Web analyst *(On-site interview)*
