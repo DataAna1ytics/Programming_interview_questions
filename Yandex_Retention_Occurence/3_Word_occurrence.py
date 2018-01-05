@@ -6,6 +6,7 @@ Created on Fri Nov 10 15:59:01 2017
 """
 #Position: Analyst for Yandex vertical services
 #Task: Implement code which counts occurrence of a word in a string using specific Python function    
+#On-site interview
 
 s = 'qwert, tyuio, yuio, sdfg, qwert, fghjk, '
 import collections
