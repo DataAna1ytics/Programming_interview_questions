@@ -1,5 +1,5 @@
 # Programming interview questions
-Answers on programming interview questions implemented while seeking for job in IT in Moscow, Russia
+Answers to programming interview questions implemented while seeking for job in IT in Moscow, Russia
 
 - [Greenpeace](http://www.greenpeace.org/russia/en/) | *Position:* Senior data analyst *(on-site interview)*
 
