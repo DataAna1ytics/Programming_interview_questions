@@ -1,4 +1,4 @@
-#Position: Analyst for Yandex vertical services
+#Position: Analyst for Yandex vertical services (auto.ru, realty.yandex.ru, rabota.yandex.ru, travel.yandex.ru)
 #Taks: Implement a SQL query which finds weekly users retention from given table
 
 #server setup
