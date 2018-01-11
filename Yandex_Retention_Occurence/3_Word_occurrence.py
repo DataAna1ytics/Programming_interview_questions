@@ -4,7 +4,7 @@ Created on Fri Nov 10 15:59:01 2017
 
 @author: Gavrilov
 """
-#Position: Analyst for Yandex vertical services
+#Position: Analyst for Yandex vertical services (auto.ru, realty.yandex.ru, rabota.yandex.ru, travel.yandex.ru)
 #Task: Implement code which counts occurrence of a word in a string using specific Python function    
 #On-site interview
 
