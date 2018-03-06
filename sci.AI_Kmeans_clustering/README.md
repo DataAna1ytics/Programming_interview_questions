@@ -1,4 +1,5 @@
-# Task is to determine the number of clusters in a data set
+## Task: 
+- Determine the number of clusters in a data set
 ### Solution:
 - The elbow method of finding value for *k*;
 - Scikit-learn;
