@@ -1,7 +1,7 @@
 # Programming interview questions
 Answers to programming interview questions implemented while seeking for job in IT in Moscow, Russia
 
-- [sci.ai](https://sci.ai/) | *Position:* Machine Learning Engineer (NLP) *(online interview)*
+- [sci.AI](https://sci.ai/) | *Position:* Machine Learning Engineer (NLP) *(online interview)*
 
 - [Greenpeace](http://www.greenpeace.org/russia/en/) | Senior business data analyst *(on-site interview)*
 
