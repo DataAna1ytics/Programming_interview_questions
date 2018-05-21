@@ -1,5 +1,5 @@
 # Programming interview questions
-Answers to programming interview questions implemented while seeking for job in IT in Moscow, Russia
+Answers to different programming interview questions for positions in Data Science:
 
 - [sci.AI](https://sci.ai/) | *Position:* Machine Learning Engineer (NLP) *(online interview)*
 
