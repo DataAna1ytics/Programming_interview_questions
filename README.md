@@ -1,7 +1,8 @@
 # Programming interview questions
 Answers to different programming interview questions for positions in Data Science:
+- [Sibur (Сибур)](https://www.sibur.ru/en/) | *Position:* Big Data Analyst (Аналитик Big Data) 
 
-- [sci.AI](https://sci.ai/) | *Position:* Machine Learning Engineer (NLP) *(online interview)*
+- [sci.AI](https://sci.ai/) | Machine Learning Engineer (NLP) *(online interview)*
 
 - [Greenpeace](http://www.greenpeace.org/russia/en/) | Senior business data analyst *(on-site interview)*
 
